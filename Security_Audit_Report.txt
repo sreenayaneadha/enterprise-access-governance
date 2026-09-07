@@ -1,0 +1,85 @@
+ENTERPRISE SECURITY AUDIT REPORT
+================================
+
+CRITICAL RISK: Unauthorized HR Payroll Access
+Action Required: Revoke payroll access immediately.
+--------------------------------------------------
+Employee_ID         Name Department                                      Permissions
+     EMP001   Employee_1         HR   Approve_Invoice, Create_Vendor, Access_Payroll
+     EMP002   Employee_2         HR      Delete_Database, Read_Email, Access_Payroll
+     EMP009   Employee_9         HR                                   Access_Payroll
+     EMP014  Employee_14         HR      Manage_Users, Create_Vendor, Access_Payroll
+     EMP034  Employee_34         HR                                   Access_Payroll
+     EMP051  Employee_51         HR      Approve_Invoice, Read_Email, Access_Payroll
+     EMP063  Employee_63         HR                  Approve_Invoice, Access_Payroll
+     EMP071  Employee_71         HR   Delete_Database, Access_Payroll, Create_Vendor
+     EMP077  Employee_77         HR                     Manage_Users, Access_Payroll
+     EMP092  Employee_92         HR                     Manage_Users, Access_Payroll
+     EMP110 Employee_110         HR         Access_Payroll, Read_Email, Manage_Users
+     EMP120 Employee_120         HR                  Access_Payroll, Delete_Database
+     EMP138 Employee_138         HR                       Read_Email, Access_Payroll
+     EMP184 Employee_184         HR      Access_Payroll, Approve_Invoice, Read_Email
+     EMP202 Employee_202         HR                    Create_Vendor, Access_Payroll
+     EMP229 Employee_229         HR      Delete_Database, Access_Payroll, Read_Email
+     EMP230 Employee_230         HR                  Approve_Invoice, Access_Payroll
+     EMP231 Employee_231         HR        Create_Vendor, Access_Payroll, Read_Email
+     EMP251 Employee_251         HR   Access_Payroll, Create_Vendor, Delete_Database
+     EMP260 Employee_260         HR   Delete_Database, Create_Vendor, Access_Payroll
+     EMP263 Employee_263         HR    Delete_Database, Access_Payroll, Manage_Users
+     EMP266 Employee_266         HR                  Access_Payroll, Delete_Database
+     EMP283 Employee_283         HR                  Approve_Invoice, Access_Payroll
+     EMP291 Employee_291         HR   Approve_Invoice, Access_Payroll, Create_Vendor
+     EMP314 Employee_314         HR                                   Access_Payroll
+     EMP357 Employee_357         HR    Access_Payroll, Approve_Invoice, Manage_Users
+     EMP364 Employee_364         HR                  Access_Payroll, Delete_Database
+     EMP367 Employee_367         HR                  Access_Payroll, Delete_Database
+     EMP374 Employee_374         HR                  Approve_Invoice, Access_Payroll
+     EMP376 Employee_376         HR Approve_Invoice, Delete_Database, Access_Payroll
+     EMP424 Employee_424         HR                                   Access_Payroll
+     EMP436 Employee_436         HR                       Access_Payroll, Read_Email
+     EMP437 Employee_437         HR                    Create_Vendor, Access_Payroll
+     EMP447 Employee_447         HR                       Read_Email, Access_Payroll
+     EMP449 Employee_449         HR                                   Access_Payroll
+     EMP490 Employee_490         HR                  Delete_Database, Access_Payroll
+     EMP499 Employee_499         HR                  Access_Payroll, Delete_Database
+
+
+CRITICAL RISK: Separation of Duties (SoD) Violations
+Action Required: Account holds conflicting administrative privileges.
+--------------------------------------------------
+Employee_ID         Name             Title                                    Permissions
+     EMP020  Employee_20 Financial Analyst  Access_Payroll, Delete_Database, Manage_Users
+     EMP032  Employee_32        Accountant Approve_Invoice, Delete_Database, Manage_Users
+     EMP038  Employee_38          SysAdmin  Access_Payroll, Manage_Users, Delete_Database
+     EMP040  Employee_40 Account Executive                  Delete_Database, Manage_Users
+     EMP042  Employee_42 Software Engineer Delete_Database, Manage_Users, Approve_Invoice
+     EMP064  Employee_64 Software Engineer Manage_Users, Approve_Invoice, Delete_Database
+     EMP085  Employee_85        Accountant                  Manage_Users, Delete_Database
+     EMP105 Employee_105 Account Executive      Manage_Users, Read_Email, Delete_Database
+     EMP106 Employee_106        HR Manager                  Delete_Database, Manage_Users
+     EMP159 Employee_159        HR Manager Approve_Invoice, Delete_Database, Manage_Users
+     EMP163 Employee_163 Financial Analyst Manage_Users, Delete_Database, Approve_Invoice
+     EMP164 Employee_164     Helpdesk Tech      Delete_Database, Read_Email, Manage_Users
+     EMP166 Employee_166 Financial Analyst                  Manage_Users, Delete_Database
+     EMP171 Employee_171          SysAdmin                  Delete_Database, Manage_Users
+     EMP183 Employee_183   DevOps Engineer   Delete_Database, Manage_Users, Create_Vendor
+     EMP189 Employee_189 Software Engineer      Read_Email, Delete_Database, Manage_Users
+     EMP194 Employee_194     Helpdesk Tech   Manage_Users, Create_Vendor, Delete_Database
+     EMP198 Employee_198   DevOps Engineer Delete_Database, Approve_Invoice, Manage_Users
+     EMP209 Employee_209        Accountant Manage_Users, Delete_Database, Approve_Invoice
+     EMP217 Employee_217     Helpdesk Tech   Manage_Users, Create_Vendor, Delete_Database
+     EMP255 Employee_255 Account Executive Delete_Database, Manage_Users, Approve_Invoice
+     EMP263 Employee_263        HR Manager  Delete_Database, Access_Payroll, Manage_Users
+     EMP285 Employee_285 Financial Analyst                  Manage_Users, Delete_Database
+     EMP293 Employee_293          SysAdmin      Delete_Database, Read_Email, Manage_Users
+     EMP306 Employee_306         Sales Rep      Delete_Database, Manage_Users, Read_Email
+     EMP325 Employee_325   DevOps Engineer                  Manage_Users, Delete_Database
+     EMP330 Employee_330         Sales Rep Delete_Database, Approve_Invoice, Manage_Users
+     EMP336 Employee_336     HR Specialist Approve_Invoice, Delete_Database, Manage_Users
+     EMP359 Employee_359     HR Specialist                  Delete_Database, Manage_Users
+     EMP366 Employee_366 Financial Analyst Delete_Database, Manage_Users, Approve_Invoice
+     EMP390 Employee_390 Software Engineer Manage_Users, Delete_Database, Approve_Invoice
+     EMP429 Employee_429        Accountant Manage_Users, Delete_Database, Approve_Invoice
+     EMP441 Employee_441          SysAdmin  Manage_Users, Delete_Database, Access_Payroll
+     EMP445 Employee_445         Sales Rep   Delete_Database, Manage_Users, Create_Vendor
+     EMP453 Employee_453 Financial Analyst                  Delete_Database, Manage_Users

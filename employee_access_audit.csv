@@ -1,0 +1,501 @@
+Employee_ID,Name,Department,Title,Permissions,Last_Login_Days_Ago
+EMP001,Employee_1,HR,HR Specialist,"Approve_Invoice, Create_Vendor, Access_Payroll",18
+EMP002,Employee_2,HR,HR Specialist,"Delete_Database, Read_Email, Access_Payroll",12
+EMP003,Employee_3,Finance,Accountant,"Access_Payroll, Read_Email, Create_Vendor",92
+EMP004,Employee_4,IT,Helpdesk Tech,Delete_Database,76
+EMP005,Employee_5,Engineering,Software Engineer,Manage_Users,55
+EMP006,Employee_6,Engineering,DevOps Engineer,Create_Vendor,98
+EMP007,Employee_7,Engineering,Software Engineer,Delete_Database,13
+EMP008,Employee_8,Engineering,DevOps Engineer,"Approve_Invoice, Read_Email, Delete_Database",69
+EMP009,Employee_9,HR,HR Manager,Access_Payroll,38
+EMP010,Employee_10,IT,Helpdesk Tech,"Create_Vendor, Read_Email, Access_Payroll",85
+EMP011,Employee_11,Finance,Financial Analyst,Create_Vendor,111
+EMP012,Employee_12,HR,HR Manager,"Delete_Database, Approve_Invoice",21
+EMP013,Employee_13,Engineering,DevOps Engineer,Manage_Users,35
+EMP014,Employee_14,HR,HR Specialist,"Manage_Users, Create_Vendor, Access_Payroll",60
+EMP015,Employee_15,Sales,Account Executive,"Access_Payroll, Delete_Database",88
+EMP016,Employee_16,Engineering,Software Engineer,Read_Email,104
+EMP017,Employee_17,Engineering,DevOps Engineer,"Read_Email, Create_Vendor",117
+EMP018,Employee_18,IT,Helpdesk Tech,Manage_Users,64
+EMP019,Employee_19,Sales,Account Executive,Approve_Invoice,18
+EMP020,Employee_20,Finance,Financial Analyst,"Access_Payroll, Delete_Database, Manage_Users",47
+EMP021,Employee_21,Finance,Accountant,"Delete_Database, Read_Email, Access_Payroll",111
+EMP022,Employee_22,HR,HR Specialist,"Create_Vendor, Delete_Database, Read_Email",50
+EMP023,Employee_23,Sales,Account Executive,"Approve_Invoice, Access_Payroll, Read_Email",88
+EMP024,Employee_24,HR,HR Manager,"Approve_Invoice, Read_Email, Manage_Users",56
+EMP025,Employee_25,Finance,Financial Analyst,Manage_Users,113
+EMP026,Employee_26,Engineering,Software Engineer,"Read_Email, Approve_Invoice, Create_Vendor",20
+EMP027,Employee_27,Engineering,Software Engineer,"Access_Payroll, Read_Email, Approve_Invoice",63
+EMP028,Employee_28,HR,HR Specialist,"Approve_Invoice, Create_Vendor",8
+EMP029,Employee_29,Finance,Accountant,Manage_Users,63
+EMP030,Employee_30,HR,HR Specialist,Manage_Users,61
+EMP031,Employee_31,IT,SysAdmin,"Access_Payroll, Manage_Users",55
+EMP032,Employee_32,Finance,Accountant,"Approve_Invoice, Delete_Database, Manage_Users",57
+EMP033,Employee_33,IT,Helpdesk Tech,Create_Vendor,29
+EMP034,Employee_34,HR,HR Manager,Access_Payroll,71
+EMP035,Employee_35,Finance,Accountant,Read_Email,91
+EMP036,Employee_36,HR,HR Specialist,Read_Email,111
+EMP037,Employee_37,Engineering,Software Engineer,"Create_Vendor, Approve_Invoice, Delete_Database",28
+EMP038,Employee_38,IT,SysAdmin,"Access_Payroll, Manage_Users, Delete_Database",32
+EMP039,Employee_39,Sales,Account Executive,Read_Email,13
+EMP040,Employee_40,Sales,Account Executive,"Delete_Database, Manage_Users",111
+EMP041,Employee_41,HR,HR Specialist,Delete_Database,94
+EMP042,Employee_42,Engineering,Software Engineer,"Delete_Database, Manage_Users, Approve_Invoice",25
+EMP043,Employee_43,IT,Helpdesk Tech,Delete_Database,24
+EMP044,Employee_44,Engineering,DevOps Engineer,Read_Email,57
+EMP045,Employee_45,IT,SysAdmin,Manage_Users,70
+EMP046,Employee_46,HR,HR Specialist,Create_Vendor,53
+EMP047,Employee_47,Sales,Account Executive,Delete_Database,116
+EMP048,Employee_48,HR,HR Specialist,"Read_Email, Delete_Database",34
+EMP049,Employee_49,Sales,Account Executive,"Manage_Users, Access_Payroll",85
+EMP050,Employee_50,Sales,Sales Rep,Approve_Invoice,28
+EMP051,Employee_51,HR,HR Specialist,"Approve_Invoice, Read_Email, Access_Payroll",75
+EMP052,Employee_52,Sales,Sales Rep,Access_Payroll,11
+EMP053,Employee_53,Finance,Accountant,"Read_Email, Create_Vendor, Delete_Database",16
+EMP054,Employee_54,IT,SysAdmin,"Access_Payroll, Read_Email, Manage_Users",54
+EMP055,Employee_55,IT,Helpdesk Tech,"Create_Vendor, Approve_Invoice",31
+EMP056,Employee_56,Engineering,DevOps Engineer,Manage_Users,83
+EMP057,Employee_57,Engineering,DevOps Engineer,"Read_Email, Manage_Users",59
+EMP058,Employee_58,IT,SysAdmin,Access_Payroll,28
+EMP059,Employee_59,IT,Helpdesk Tech,Approve_Invoice,113
+EMP060,Employee_60,HR,HR Specialist,"Approve_Invoice, Create_Vendor",57
+EMP061,Employee_61,IT,Helpdesk Tech,"Manage_Users, Access_Payroll, Read_Email",86
+EMP062,Employee_62,IT,Helpdesk Tech,"Read_Email, Create_Vendor, Approve_Invoice",15
+EMP063,Employee_63,HR,HR Specialist,"Approve_Invoice, Access_Payroll",27
+EMP064,Employee_64,Engineering,Software Engineer,"Manage_Users, Approve_Invoice, Delete_Database",33
+EMP065,Employee_65,HR,HR Specialist,"Delete_Database, Approve_Invoice, Read_Email",1
+EMP066,Employee_66,Engineering,Software Engineer,"Approve_Invoice, Create_Vendor, Delete_Database",71
+EMP067,Employee_67,Sales,Sales Rep,Read_Email,114
+EMP068,Employee_68,Finance,Accountant,"Access_Payroll, Manage_Users",19
+EMP069,Employee_69,Sales,Sales Rep,Approve_Invoice,47
+EMP070,Employee_70,HR,HR Manager,Manage_Users,32
+EMP071,Employee_71,HR,HR Manager,"Delete_Database, Access_Payroll, Create_Vendor",119
+EMP072,Employee_72,Finance,Accountant,Delete_Database,4
+EMP073,Employee_73,Finance,Financial Analyst,"Manage_Users, Create_Vendor",35
+EMP074,Employee_74,Finance,Accountant,"Read_Email, Delete_Database",29
+EMP075,Employee_75,Finance,Financial Analyst,"Approve_Invoice, Create_Vendor",29
+EMP076,Employee_76,HR,HR Specialist,"Approve_Invoice, Manage_Users",111
+EMP077,Employee_77,HR,HR Manager,"Manage_Users, Access_Payroll",52
+EMP078,Employee_78,IT,Helpdesk Tech,Read_Email,113
+EMP079,Employee_79,Engineering,Software Engineer,"Approve_Invoice, Read_Email, Access_Payroll",77
+EMP080,Employee_80,Sales,Account Executive,"Approve_Invoice, Delete_Database, Read_Email",50
+EMP081,Employee_81,IT,SysAdmin,"Read_Email, Delete_Database",1
+EMP082,Employee_82,IT,SysAdmin,"Delete_Database, Read_Email",86
+EMP083,Employee_83,Engineering,DevOps Engineer,"Read_Email, Approve_Invoice, Access_Payroll",86
+EMP084,Employee_84,Sales,Account Executive,"Manage_Users, Approve_Invoice",71
+EMP085,Employee_85,Finance,Accountant,"Manage_Users, Delete_Database",87
+EMP086,Employee_86,Finance,Financial Analyst,"Access_Payroll, Read_Email",39
+EMP087,Employee_87,Engineering,Software Engineer,"Access_Payroll, Manage_Users",84
+EMP088,Employee_88,Engineering,DevOps Engineer,"Delete_Database, Create_Vendor",66
+EMP089,Employee_89,Sales,Sales Rep,"Read_Email, Approve_Invoice, Access_Payroll",12
+EMP090,Employee_90,Finance,Financial Analyst,Create_Vendor,19
+EMP091,Employee_91,HR,HR Specialist,Delete_Database,79
+EMP092,Employee_92,HR,HR Manager,"Manage_Users, Access_Payroll",25
+EMP093,Employee_93,Sales,Account Executive,"Create_Vendor, Manage_Users",84
+EMP094,Employee_94,HR,HR Specialist,"Create_Vendor, Manage_Users",103
+EMP095,Employee_95,IT,Helpdesk Tech,Access_Payroll,32
+EMP096,Employee_96,HR,HR Manager,Delete_Database,86
+EMP097,Employee_97,IT,Helpdesk Tech,"Access_Payroll, Manage_Users",55
+EMP098,Employee_98,IT,Helpdesk Tech,Manage_Users,111
+EMP099,Employee_99,Sales,Account Executive,"Create_Vendor, Approve_Invoice",99
+EMP100,Employee_100,IT,Helpdesk Tech,"Create_Vendor, Approve_Invoice, Delete_Database",10
+EMP101,Employee_101,Engineering,Software Engineer,"Approve_Invoice, Manage_Users",115
+EMP102,Employee_102,IT,SysAdmin,Create_Vendor,30
+EMP103,Employee_103,Sales,Sales Rep,"Create_Vendor, Read_Email, Delete_Database",53
+EMP104,Employee_104,Engineering,DevOps Engineer,"Read_Email, Create_Vendor",107
+EMP105,Employee_105,Sales,Account Executive,"Manage_Users, Read_Email, Delete_Database",62
+EMP106,Employee_106,HR,HR Manager,"Delete_Database, Manage_Users",69
+EMP107,Employee_107,IT,SysAdmin,"Create_Vendor, Approve_Invoice",56
+EMP108,Employee_108,Sales,Sales Rep,"Approve_Invoice, Delete_Database",93
+EMP109,Employee_109,Finance,Financial Analyst,Access_Payroll,69
+EMP110,Employee_110,HR,HR Manager,"Access_Payroll, Read_Email, Manage_Users",83
+EMP111,Employee_111,Sales,Sales Rep,"Create_Vendor, Read_Email",34
+EMP112,Employee_112,Sales,Account Executive,Delete_Database,42
+EMP113,Employee_113,Engineering,DevOps Engineer,"Delete_Database, Approve_Invoice",107
+EMP114,Employee_114,HR,HR Manager,Manage_Users,70
+EMP115,Employee_115,HR,HR Manager,Manage_Users,9
+EMP116,Employee_116,HR,HR Specialist,Create_Vendor,108
+EMP117,Employee_117,HR,HR Specialist,Create_Vendor,61
+EMP118,Employee_118,HR,HR Specialist,"Manage_Users, Approve_Invoice",99
+EMP119,Employee_119,Engineering,Software Engineer,"Access_Payroll, Read_Email, Create_Vendor",40
+EMP120,Employee_120,HR,HR Specialist,"Access_Payroll, Delete_Database",51
+EMP121,Employee_121,Finance,Accountant,"Manage_Users, Create_Vendor, Read_Email",90
+EMP122,Employee_122,Engineering,Software Engineer,"Read_Email, Approve_Invoice, Delete_Database",85
+EMP123,Employee_123,Engineering,Software Engineer,"Manage_Users, Approve_Invoice, Read_Email",109
+EMP124,Employee_124,Sales,Account Executive,Delete_Database,47
+EMP125,Employee_125,Sales,Sales Rep,"Create_Vendor, Access_Payroll",84
+EMP126,Employee_126,Engineering,DevOps Engineer,"Delete_Database, Access_Payroll",35
+EMP127,Employee_127,Engineering,Software Engineer,Approve_Invoice,113
+EMP128,Employee_128,Sales,Sales Rep,"Access_Payroll, Manage_Users",86
+EMP129,Employee_129,Sales,Account Executive,Delete_Database,109
+EMP130,Employee_130,Engineering,Software Engineer,"Create_Vendor, Approve_Invoice",103
+EMP131,Employee_131,Engineering,DevOps Engineer,"Access_Payroll, Approve_Invoice",72
+EMP132,Employee_132,HR,HR Specialist,Create_Vendor,93
+EMP133,Employee_133,Sales,Account Executive,"Create_Vendor, Delete_Database, Access_Payroll",58
+EMP134,Employee_134,HR,HR Specialist,"Create_Vendor, Delete_Database",89
+EMP135,Employee_135,Finance,Financial Analyst,"Access_Payroll, Approve_Invoice, Delete_Database",71
+EMP136,Employee_136,IT,Helpdesk Tech,"Manage_Users, Access_Payroll",43
+EMP137,Employee_137,Engineering,DevOps Engineer,"Approve_Invoice, Manage_Users",30
+EMP138,Employee_138,HR,HR Specialist,"Read_Email, Access_Payroll",98
+EMP139,Employee_139,Finance,Accountant,Manage_Users,62
+EMP140,Employee_140,Engineering,DevOps Engineer,Create_Vendor,38
+EMP141,Employee_141,Finance,Financial Analyst,Approve_Invoice,2
+EMP142,Employee_142,IT,SysAdmin,"Read_Email, Manage_Users",71
+EMP143,Employee_143,Engineering,Software Engineer,"Delete_Database, Read_Email, Access_Payroll",74
+EMP144,Employee_144,Engineering,DevOps Engineer,"Delete_Database, Approve_Invoice",24
+EMP145,Employee_145,HR,HR Manager,"Read_Email, Manage_Users",52
+EMP146,Employee_146,Sales,Sales Rep,"Manage_Users, Read_Email, Create_Vendor",20
+EMP147,Employee_147,IT,Helpdesk Tech,Create_Vendor,16
+EMP148,Employee_148,IT,Helpdesk Tech,"Access_Payroll, Manage_Users, Create_Vendor",100
+EMP149,Employee_149,IT,Helpdesk Tech,"Delete_Database, Approve_Invoice",111
+EMP150,Employee_150,IT,Helpdesk Tech,"Access_Payroll, Manage_Users",8
+EMP151,Employee_151,IT,SysAdmin,Manage_Users,28
+EMP152,Employee_152,Engineering,Software Engineer,Create_Vendor,23
+EMP153,Employee_153,IT,SysAdmin,Read_Email,53
+EMP154,Employee_154,Sales,Account Executive,"Read_Email, Create_Vendor",37
+EMP155,Employee_155,Engineering,DevOps Engineer,Manage_Users,30
+EMP156,Employee_156,Engineering,Software Engineer,"Read_Email, Access_Payroll",29
+EMP157,Employee_157,Finance,Financial Analyst,Read_Email,8
+EMP158,Employee_158,Finance,Financial Analyst,"Manage_Users, Access_Payroll, Approve_Invoice",57
+EMP159,Employee_159,HR,HR Manager,"Approve_Invoice, Delete_Database, Manage_Users",65
+EMP160,Employee_160,IT,Helpdesk Tech,"Read_Email, Access_Payroll",6
+EMP161,Employee_161,Sales,Account Executive,"Approve_Invoice, Read_Email, Access_Payroll",30
+EMP162,Employee_162,IT,SysAdmin,"Approve_Invoice, Access_Payroll, Read_Email",98
+EMP163,Employee_163,Finance,Financial Analyst,"Manage_Users, Delete_Database, Approve_Invoice",24
+EMP164,Employee_164,IT,Helpdesk Tech,"Delete_Database, Read_Email, Manage_Users",45
+EMP165,Employee_165,Sales,Account Executive,"Manage_Users, Read_Email",110
+EMP166,Employee_166,Finance,Financial Analyst,"Manage_Users, Delete_Database",37
+EMP167,Employee_167,Sales,Sales Rep,"Read_Email, Approve_Invoice",33
+EMP168,Employee_168,Engineering,Software Engineer,"Access_Payroll, Read_Email",85
+EMP169,Employee_169,IT,Helpdesk Tech,"Read_Email, Create_Vendor",67
+EMP170,Employee_170,Engineering,DevOps Engineer,"Delete_Database, Read_Email, Create_Vendor",35
+EMP171,Employee_171,IT,SysAdmin,"Delete_Database, Manage_Users",16
+EMP172,Employee_172,HR,HR Specialist,"Create_Vendor, Approve_Invoice, Read_Email",71
+EMP173,Employee_173,Sales,Sales Rep,Read_Email,60
+EMP174,Employee_174,HR,HR Specialist,"Manage_Users, Approve_Invoice",66
+EMP175,Employee_175,Engineering,DevOps Engineer,"Delete_Database, Create_Vendor",59
+EMP176,Employee_176,IT,SysAdmin,"Create_Vendor, Access_Payroll",66
+EMP177,Employee_177,Finance,Accountant,"Delete_Database, Approve_Invoice",120
+EMP178,Employee_178,IT,Helpdesk Tech,Approve_Invoice,93
+EMP179,Employee_179,Engineering,DevOps Engineer,Delete_Database,69
+EMP180,Employee_180,Sales,Account Executive,"Access_Payroll, Manage_Users",49
+EMP181,Employee_181,Sales,Account Executive,Manage_Users,31
+EMP182,Employee_182,IT,Helpdesk Tech,Delete_Database,6
+EMP183,Employee_183,Engineering,DevOps Engineer,"Delete_Database, Manage_Users, Create_Vendor",64
+EMP184,Employee_184,HR,HR Specialist,"Access_Payroll, Approve_Invoice, Read_Email",112
+EMP185,Employee_185,Sales,Sales Rep,"Delete_Database, Read_Email, Create_Vendor",53
+EMP186,Employee_186,Finance,Accountant,"Approve_Invoice, Manage_Users",80
+EMP187,Employee_187,Sales,Sales Rep,"Manage_Users, Access_Payroll",49
+EMP188,Employee_188,Engineering,DevOps Engineer,"Read_Email, Access_Payroll, Manage_Users",31
+EMP189,Employee_189,Engineering,Software Engineer,"Read_Email, Delete_Database, Manage_Users",98
+EMP190,Employee_190,HR,HR Manager,Manage_Users,39
+EMP191,Employee_191,HR,HR Specialist,"Read_Email, Approve_Invoice",46
+EMP192,Employee_192,Engineering,DevOps Engineer,Create_Vendor,68
+EMP193,Employee_193,Sales,Sales Rep,Create_Vendor,11
+EMP194,Employee_194,IT,Helpdesk Tech,"Manage_Users, Create_Vendor, Delete_Database",117
+EMP195,Employee_195,IT,SysAdmin,Delete_Database,82
+EMP196,Employee_196,Engineering,DevOps Engineer,"Manage_Users, Read_Email",116
+EMP197,Employee_197,Sales,Account Executive,"Access_Payroll, Create_Vendor, Read_Email",57
+EMP198,Employee_198,Engineering,DevOps Engineer,"Delete_Database, Approve_Invoice, Manage_Users",109
+EMP199,Employee_199,Engineering,Software Engineer,"Delete_Database, Read_Email",31
+EMP200,Employee_200,Sales,Account Executive,"Approve_Invoice, Manage_Users, Read_Email",107
+EMP201,Employee_201,Sales,Account Executive,Access_Payroll,111
+EMP202,Employee_202,HR,HR Manager,"Create_Vendor, Access_Payroll",103
+EMP203,Employee_203,Engineering,Software Engineer,"Create_Vendor, Access_Payroll, Approve_Invoice",87
+EMP204,Employee_204,Finance,Accountant,"Manage_Users, Read_Email, Approve_Invoice",101
+EMP205,Employee_205,Sales,Sales Rep,"Approve_Invoice, Create_Vendor, Read_Email",117
+EMP206,Employee_206,Engineering,DevOps Engineer,"Delete_Database, Create_Vendor, Access_Payroll",17
+EMP207,Employee_207,IT,Helpdesk Tech,"Access_Payroll, Approve_Invoice, Create_Vendor",33
+EMP208,Employee_208,Sales,Account Executive,"Approve_Invoice, Read_Email, Delete_Database",10
+EMP209,Employee_209,Finance,Accountant,"Manage_Users, Delete_Database, Approve_Invoice",12
+EMP210,Employee_210,Sales,Sales Rep,"Access_Payroll, Read_Email",59
+EMP211,Employee_211,Engineering,DevOps Engineer,"Delete_Database, Approve_Invoice, Read_Email",87
+EMP212,Employee_212,Finance,Financial Analyst,Access_Payroll,114
+EMP213,Employee_213,IT,Helpdesk Tech,"Create_Vendor, Read_Email, Delete_Database",117
+EMP214,Employee_214,Engineering,DevOps Engineer,Create_Vendor,6
+EMP215,Employee_215,HR,HR Manager,"Read_Email, Manage_Users",31
+EMP216,Employee_216,IT,SysAdmin,"Delete_Database, Approve_Invoice",86
+EMP217,Employee_217,IT,Helpdesk Tech,"Manage_Users, Create_Vendor, Delete_Database",84
+EMP218,Employee_218,HR,HR Manager,"Delete_Database, Approve_Invoice, Read_Email",89
+EMP219,Employee_219,Engineering,Software Engineer,"Delete_Database, Create_Vendor",110
+EMP220,Employee_220,Engineering,Software Engineer,"Approve_Invoice, Access_Payroll, Manage_Users",8
+EMP221,Employee_221,Sales,Account Executive,Read_Email,109
+EMP222,Employee_222,Sales,Sales Rep,"Create_Vendor, Access_Payroll, Read_Email",7
+EMP223,Employee_223,Engineering,Software Engineer,Access_Payroll,27
+EMP224,Employee_224,HR,HR Specialist,"Create_Vendor, Manage_Users, Approve_Invoice",100
+EMP225,Employee_225,Finance,Accountant,"Create_Vendor, Manage_Users",70
+EMP226,Employee_226,Engineering,Software Engineer,Manage_Users,111
+EMP227,Employee_227,HR,HR Specialist,Approve_Invoice,102
+EMP228,Employee_228,Finance,Financial Analyst,Create_Vendor,34
+EMP229,Employee_229,HR,HR Specialist,"Delete_Database, Access_Payroll, Read_Email",96
+EMP230,Employee_230,HR,HR Manager,"Approve_Invoice, Access_Payroll",76
+EMP231,Employee_231,HR,HR Manager,"Create_Vendor, Access_Payroll, Read_Email",94
+EMP232,Employee_232,IT,Helpdesk Tech,"Manage_Users, Read_Email",8
+EMP233,Employee_233,Sales,Account Executive,"Manage_Users, Read_Email",63
+EMP234,Employee_234,Sales,Sales Rep,Approve_Invoice,78
+EMP235,Employee_235,Finance,Accountant,Approve_Invoice,80
+EMP236,Employee_236,IT,Helpdesk Tech,"Access_Payroll, Manage_Users",38
+EMP237,Employee_237,Sales,Account Executive,Manage_Users,15
+EMP238,Employee_238,IT,SysAdmin,"Delete_Database, Create_Vendor",53
+EMP239,Employee_239,Engineering,DevOps Engineer,"Delete_Database, Read_Email",41
+EMP240,Employee_240,Sales,Account Executive,"Approve_Invoice, Manage_Users, Create_Vendor",88
+EMP241,Employee_241,Sales,Sales Rep,Read_Email,12
+EMP242,Employee_242,Sales,Sales Rep,"Manage_Users, Approve_Invoice, Create_Vendor",72
+EMP243,Employee_243,HR,HR Manager,"Read_Email, Delete_Database, Approve_Invoice",112
+EMP244,Employee_244,Sales,Sales Rep,"Access_Payroll, Approve_Invoice",46
+EMP245,Employee_245,HR,HR Specialist,Manage_Users,62
+EMP246,Employee_246,Finance,Accountant,"Access_Payroll, Approve_Invoice",15
+EMP247,Employee_247,Engineering,Software Engineer,"Access_Payroll, Manage_Users",79
+EMP248,Employee_248,IT,SysAdmin,"Manage_Users, Approve_Invoice, Read_Email",24
+EMP249,Employee_249,Engineering,DevOps Engineer,"Approve_Invoice, Read_Email",24
+EMP250,Employee_250,Finance,Financial Analyst,Create_Vendor,95
+EMP251,Employee_251,HR,HR Specialist,"Access_Payroll, Create_Vendor, Delete_Database",54
+EMP252,Employee_252,Sales,Account Executive,Approve_Invoice,40
+EMP253,Employee_253,Engineering,Software Engineer,Create_Vendor,21
+EMP254,Employee_254,IT,SysAdmin,"Read_Email, Approve_Invoice, Delete_Database",85
+EMP255,Employee_255,Sales,Account Executive,"Delete_Database, Manage_Users, Approve_Invoice",28
+EMP256,Employee_256,IT,SysAdmin,"Delete_Database, Read_Email",37
+EMP257,Employee_257,IT,Helpdesk Tech,"Manage_Users, Approve_Invoice, Read_Email",29
+EMP258,Employee_258,Sales,Sales Rep,Create_Vendor,39
+EMP259,Employee_259,Finance,Accountant,"Approve_Invoice, Manage_Users",16
+EMP260,Employee_260,HR,HR Manager,"Delete_Database, Create_Vendor, Access_Payroll",49
+EMP261,Employee_261,IT,SysAdmin,"Access_Payroll, Approve_Invoice, Read_Email",51
+EMP262,Employee_262,HR,HR Manager,Delete_Database,118
+EMP263,Employee_263,HR,HR Manager,"Delete_Database, Access_Payroll, Manage_Users",91
+EMP264,Employee_264,Sales,Account Executive,Delete_Database,3
+EMP265,Employee_265,Engineering,Software Engineer,"Delete_Database, Approve_Invoice, Read_Email",56
+EMP266,Employee_266,HR,HR Specialist,"Access_Payroll, Delete_Database",68
+EMP267,Employee_267,HR,HR Manager,"Manage_Users, Approve_Invoice",29
+EMP268,Employee_268,Engineering,Software Engineer,Access_Payroll,82
+EMP269,Employee_269,HR,HR Specialist,"Approve_Invoice, Create_Vendor",31
+EMP270,Employee_270,HR,HR Specialist,"Create_Vendor, Manage_Users",78
+EMP271,Employee_271,Finance,Accountant,Manage_Users,64
+EMP272,Employee_272,Sales,Account Executive,"Access_Payroll, Manage_Users, Approve_Invoice",111
+EMP273,Employee_273,Engineering,Software Engineer,"Read_Email, Delete_Database",57
+EMP274,Employee_274,Engineering,DevOps Engineer,"Read_Email, Approve_Invoice, Manage_Users",40
+EMP275,Employee_275,Sales,Account Executive,Read_Email,48
+EMP276,Employee_276,Engineering,Software Engineer,"Read_Email, Access_Payroll, Delete_Database",60
+EMP277,Employee_277,IT,SysAdmin,"Access_Payroll, Create_Vendor",42
+EMP278,Employee_278,IT,Helpdesk Tech,"Create_Vendor, Read_Email, Delete_Database",14
+EMP279,Employee_279,Engineering,Software Engineer,"Manage_Users, Create_Vendor, Read_Email",32
+EMP280,Employee_280,Sales,Account Executive,"Access_Payroll, Manage_Users, Create_Vendor",47
+EMP281,Employee_281,Engineering,DevOps Engineer,"Delete_Database, Approve_Invoice",87
+EMP282,Employee_282,IT,SysAdmin,"Manage_Users, Approve_Invoice, Read_Email",43
+EMP283,Employee_283,HR,HR Manager,"Approve_Invoice, Access_Payroll",112
+EMP284,Employee_284,Finance,Financial Analyst,Access_Payroll,85
+EMP285,Employee_285,Finance,Financial Analyst,"Manage_Users, Delete_Database",17
+EMP286,Employee_286,IT,SysAdmin,"Access_Payroll, Delete_Database",83
+EMP287,Employee_287,Engineering,Software Engineer,"Manage_Users, Access_Payroll, Read_Email",83
+EMP288,Employee_288,Sales,Account Executive,Approve_Invoice,40
+EMP289,Employee_289,Finance,Accountant,"Delete_Database, Create_Vendor",29
+EMP290,Employee_290,Finance,Accountant,Approve_Invoice,109
+EMP291,Employee_291,HR,HR Specialist,"Approve_Invoice, Access_Payroll, Create_Vendor",77
+EMP292,Employee_292,Sales,Sales Rep,Create_Vendor,107
+EMP293,Employee_293,IT,SysAdmin,"Delete_Database, Read_Email, Manage_Users",47
+EMP294,Employee_294,Finance,Financial Analyst,"Approve_Invoice, Delete_Database, Create_Vendor",69
+EMP295,Employee_295,Finance,Financial Analyst,"Create_Vendor, Approve_Invoice",87
+EMP296,Employee_296,IT,Helpdesk Tech,"Approve_Invoice, Delete_Database",65
+EMP297,Employee_297,IT,Helpdesk Tech,Create_Vendor,103
+EMP298,Employee_298,IT,SysAdmin,"Read_Email, Delete_Database",112
+EMP299,Employee_299,Engineering,Software Engineer,"Access_Payroll, Read_Email, Approve_Invoice",11
+EMP300,Employee_300,Finance,Financial Analyst,"Access_Payroll, Create_Vendor",107
+EMP301,Employee_301,Sales,Sales Rep,Delete_Database,114
+EMP302,Employee_302,Engineering,Software Engineer,"Read_Email, Delete_Database",65
+EMP303,Employee_303,Engineering,Software Engineer,"Read_Email, Approve_Invoice",29
+EMP304,Employee_304,HR,HR Manager,Manage_Users,84
+EMP305,Employee_305,Engineering,Software Engineer,Read_Email,37
+EMP306,Employee_306,Sales,Sales Rep,"Delete_Database, Manage_Users, Read_Email",116
+EMP307,Employee_307,HR,HR Specialist,"Create_Vendor, Manage_Users",71
+EMP308,Employee_308,IT,Helpdesk Tech,Approve_Invoice,31
+EMP309,Employee_309,Engineering,Software Engineer,Create_Vendor,54
+EMP310,Employee_310,IT,Helpdesk Tech,Read_Email,108
+EMP311,Employee_311,Sales,Sales Rep,"Access_Payroll, Manage_Users, Create_Vendor",92
+EMP312,Employee_312,Finance,Financial Analyst,"Read_Email, Access_Payroll",46
+EMP313,Employee_313,Finance,Financial Analyst,Manage_Users,86
+EMP314,Employee_314,HR,HR Manager,Access_Payroll,70
+EMP315,Employee_315,IT,SysAdmin,"Delete_Database, Read_Email",82
+EMP316,Employee_316,Sales,Account Executive,"Manage_Users, Read_Email",46
+EMP317,Employee_317,HR,HR Manager,Manage_Users,85
+EMP318,Employee_318,HR,HR Manager,Read_Email,46
+EMP319,Employee_319,IT,Helpdesk Tech,"Create_Vendor, Delete_Database, Access_Payroll",81
+EMP320,Employee_320,Finance,Accountant,Manage_Users,100
+EMP321,Employee_321,Sales,Sales Rep,"Create_Vendor, Read_Email",102
+EMP322,Employee_322,Finance,Accountant,"Approve_Invoice, Access_Payroll",51
+EMP323,Employee_323,IT,Helpdesk Tech,"Read_Email, Create_Vendor",37
+EMP324,Employee_324,Engineering,Software Engineer,"Approve_Invoice, Manage_Users, Read_Email",103
+EMP325,Employee_325,Engineering,DevOps Engineer,"Manage_Users, Delete_Database",115
+EMP326,Employee_326,Sales,Account Executive,Delete_Database,89
+EMP327,Employee_327,Sales,Account Executive,"Approve_Invoice, Read_Email, Delete_Database",11
+EMP328,Employee_328,Sales,Sales Rep,"Approve_Invoice, Manage_Users, Read_Email",11
+EMP329,Employee_329,Engineering,DevOps Engineer,"Delete_Database, Access_Payroll",92
+EMP330,Employee_330,Sales,Sales Rep,"Delete_Database, Approve_Invoice, Manage_Users",6
+EMP331,Employee_331,Engineering,DevOps Engineer,"Manage_Users, Read_Email",10
+EMP332,Employee_332,Sales,Account Executive,"Manage_Users, Create_Vendor, Read_Email",19
+EMP333,Employee_333,IT,Helpdesk Tech,Create_Vendor,9
+EMP334,Employee_334,Finance,Financial Analyst,"Delete_Database, Access_Payroll",5
+EMP335,Employee_335,IT,SysAdmin,"Delete_Database, Approve_Invoice, Access_Payroll",57
+EMP336,Employee_336,HR,HR Specialist,"Approve_Invoice, Delete_Database, Manage_Users",84
+EMP337,Employee_337,Engineering,Software Engineer,Read_Email,95
+EMP338,Employee_338,Finance,Financial Analyst,"Delete_Database, Access_Payroll, Read_Email",34
+EMP339,Employee_339,Engineering,DevOps Engineer,Access_Payroll,37
+EMP340,Employee_340,Sales,Sales Rep,Create_Vendor,110
+EMP341,Employee_341,HR,HR Manager,Manage_Users,57
+EMP342,Employee_342,HR,HR Manager,"Approve_Invoice, Read_Email, Manage_Users",115
+EMP343,Employee_343,Engineering,Software Engineer,"Manage_Users, Create_Vendor, Approve_Invoice",66
+EMP344,Employee_344,Finance,Accountant,Create_Vendor,31
+EMP345,Employee_345,Sales,Sales Rep,"Access_Payroll, Manage_Users",48
+EMP346,Employee_346,Sales,Sales Rep,"Read_Email, Manage_Users, Approve_Invoice",51
+EMP347,Employee_347,Sales,Account Executive,"Access_Payroll, Read_Email",17
+EMP348,Employee_348,Engineering,Software Engineer,"Delete_Database, Access_Payroll",45
+EMP349,Employee_349,Finance,Accountant,Delete_Database,65
+EMP350,Employee_350,HR,HR Specialist,"Create_Vendor, Approve_Invoice, Manage_Users",21
+EMP351,Employee_351,Engineering,Software Engineer,"Access_Payroll, Approve_Invoice",109
+EMP352,Employee_352,HR,HR Manager,Manage_Users,71
+EMP353,Employee_353,Engineering,Software Engineer,"Approve_Invoice, Access_Payroll, Read_Email",65
+EMP354,Employee_354,Finance,Accountant,Manage_Users,80
+EMP355,Employee_355,IT,Helpdesk Tech,"Read_Email, Manage_Users, Access_Payroll",6
+EMP356,Employee_356,IT,Helpdesk Tech,"Create_Vendor, Access_Payroll, Delete_Database",80
+EMP357,Employee_357,HR,HR Manager,"Access_Payroll, Approve_Invoice, Manage_Users",62
+EMP358,Employee_358,Finance,Financial Analyst,"Delete_Database, Read_Email",89
+EMP359,Employee_359,HR,HR Specialist,"Delete_Database, Manage_Users",60
+EMP360,Employee_360,Finance,Financial Analyst,"Create_Vendor, Approve_Invoice, Access_Payroll",94
+EMP361,Employee_361,Engineering,DevOps Engineer,Approve_Invoice,66
+EMP362,Employee_362,IT,SysAdmin,"Create_Vendor, Delete_Database",16
+EMP363,Employee_363,Engineering,DevOps Engineer,Create_Vendor,13
+EMP364,Employee_364,HR,HR Manager,"Access_Payroll, Delete_Database",32
+EMP365,Employee_365,Finance,Financial Analyst,"Manage_Users, Approve_Invoice, Create_Vendor",98
+EMP366,Employee_366,Finance,Financial Analyst,"Delete_Database, Manage_Users, Approve_Invoice",64
+EMP367,Employee_367,HR,HR Specialist,"Access_Payroll, Delete_Database",31
+EMP368,Employee_368,Finance,Financial Analyst,Read_Email,37
+EMP369,Employee_369,Sales,Account Executive,"Access_Payroll, Read_Email",109
+EMP370,Employee_370,HR,HR Manager,Approve_Invoice,94
+EMP371,Employee_371,Engineering,DevOps Engineer,"Read_Email, Delete_Database",7
+EMP372,Employee_372,IT,SysAdmin,"Access_Payroll, Approve_Invoice",10
+EMP373,Employee_373,Sales,Account Executive,"Approve_Invoice, Access_Payroll, Read_Email",17
+EMP374,Employee_374,HR,HR Manager,"Approve_Invoice, Access_Payroll",47
+EMP375,Employee_375,Finance,Accountant,"Access_Payroll, Delete_Database, Read_Email",6
+EMP376,Employee_376,HR,HR Specialist,"Approve_Invoice, Delete_Database, Access_Payroll",20
+EMP377,Employee_377,IT,SysAdmin,"Access_Payroll, Approve_Invoice",21
+EMP378,Employee_378,Sales,Account Executive,"Approve_Invoice, Access_Payroll, Delete_Database",91
+EMP379,Employee_379,IT,Helpdesk Tech,"Read_Email, Approve_Invoice",43
+EMP380,Employee_380,HR,HR Manager,"Approve_Invoice, Read_Email, Delete_Database",34
+EMP381,Employee_381,IT,SysAdmin,"Read_Email, Access_Payroll, Delete_Database",22
+EMP382,Employee_382,IT,Helpdesk Tech,Manage_Users,32
+EMP383,Employee_383,HR,HR Specialist,Read_Email,57
+EMP384,Employee_384,Engineering,DevOps Engineer,Delete_Database,89
+EMP385,Employee_385,Finance,Financial Analyst,"Access_Payroll, Delete_Database, Read_Email",91
+EMP386,Employee_386,Finance,Accountant,"Approve_Invoice, Delete_Database, Access_Payroll",41
+EMP387,Employee_387,Finance,Financial Analyst,"Approve_Invoice, Access_Payroll, Manage_Users",87
+EMP388,Employee_388,Engineering,DevOps Engineer,Create_Vendor,36
+EMP389,Employee_389,IT,Helpdesk Tech,Approve_Invoice,99
+EMP390,Employee_390,Engineering,Software Engineer,"Manage_Users, Delete_Database, Approve_Invoice",62
+EMP391,Employee_391,Engineering,DevOps Engineer,"Read_Email, Access_Payroll",87
+EMP392,Employee_392,IT,Helpdesk Tech,"Approve_Invoice, Create_Vendor",38
+EMP393,Employee_393,HR,HR Manager,"Read_Email, Approve_Invoice, Delete_Database",84
+EMP394,Employee_394,Engineering,DevOps Engineer,Create_Vendor,106
+EMP395,Employee_395,IT,Helpdesk Tech,"Manage_Users, Approve_Invoice, Create_Vendor",14
+EMP396,Employee_396,IT,SysAdmin,Read_Email,86
+EMP397,Employee_397,IT,SysAdmin,"Create_Vendor, Read_Email, Access_Payroll",53
+EMP398,Employee_398,Engineering,DevOps Engineer,Manage_Users,99
+EMP399,Employee_399,Finance,Accountant,"Create_Vendor, Delete_Database, Access_Payroll",62
+EMP400,Employee_400,Finance,Financial Analyst,"Approve_Invoice, Read_Email",117
+EMP401,Employee_401,HR,HR Specialist,"Manage_Users, Read_Email, Create_Vendor",54
+EMP402,Employee_402,Finance,Accountant,"Delete_Database, Create_Vendor",120
+EMP403,Employee_403,Engineering,Software Engineer,Approve_Invoice,73
+EMP404,Employee_404,IT,SysAdmin,"Approve_Invoice, Delete_Database",83
+EMP405,Employee_405,IT,Helpdesk Tech,Access_Payroll,60
+EMP406,Employee_406,Engineering,Software Engineer,Approve_Invoice,21
+EMP407,Employee_407,Sales,Account Executive,"Create_Vendor, Read_Email, Approve_Invoice",102
+EMP408,Employee_408,Engineering,Software Engineer,Access_Payroll,110
+EMP409,Employee_409,Sales,Account Executive,"Approve_Invoice, Read_Email, Delete_Database",86
+EMP410,Employee_410,HR,HR Specialist,Delete_Database,42
+EMP411,Employee_411,Finance,Accountant,"Delete_Database, Create_Vendor",58
+EMP412,Employee_412,Engineering,DevOps Engineer,"Access_Payroll, Manage_Users",2
+EMP413,Employee_413,Engineering,DevOps Engineer,"Create_Vendor, Read_Email, Access_Payroll",60
+EMP414,Employee_414,Engineering,Software Engineer,"Manage_Users, Access_Payroll",119
+EMP415,Employee_415,Engineering,Software Engineer,"Approve_Invoice, Manage_Users, Create_Vendor",29
+EMP416,Employee_416,Finance,Financial Analyst,Delete_Database,96
+EMP417,Employee_417,IT,Helpdesk Tech,"Manage_Users, Access_Payroll",117
+EMP418,Employee_418,Sales,Sales Rep,Manage_Users,97
+EMP419,Employee_419,IT,SysAdmin,"Delete_Database, Access_Payroll, Approve_Invoice",10
+EMP420,Employee_420,IT,SysAdmin,Access_Payroll,116
+EMP421,Employee_421,IT,SysAdmin,"Access_Payroll, Create_Vendor, Manage_Users",42
+EMP422,Employee_422,IT,Helpdesk Tech,Manage_Users,27
+EMP423,Employee_423,IT,Helpdesk Tech,Access_Payroll,58
+EMP424,Employee_424,HR,HR Manager,Access_Payroll,54
+EMP425,Employee_425,Sales,Sales Rep,"Delete_Database, Approve_Invoice, Read_Email",51
+EMP426,Employee_426,Engineering,Software Engineer,"Create_Vendor, Access_Payroll, Read_Email",6
+EMP427,Employee_427,Sales,Account Executive,"Read_Email, Access_Payroll, Manage_Users",120
+EMP428,Employee_428,HR,HR Manager,Approve_Invoice,53
+EMP429,Employee_429,Finance,Accountant,"Manage_Users, Delete_Database, Approve_Invoice",115
+EMP430,Employee_430,Sales,Account Executive,"Delete_Database, Read_Email",88
+EMP431,Employee_431,IT,SysAdmin,"Approve_Invoice, Read_Email, Create_Vendor",69
+EMP432,Employee_432,Sales,Sales Rep,"Create_Vendor, Read_Email, Access_Payroll",39
+EMP433,Employee_433,Sales,Account Executive,"Delete_Database, Create_Vendor, Access_Payroll",59
+EMP434,Employee_434,Engineering,Software Engineer,"Create_Vendor, Read_Email",5
+EMP435,Employee_435,Sales,Sales Rep,Create_Vendor,9
+EMP436,Employee_436,HR,HR Specialist,"Access_Payroll, Read_Email",32
+EMP437,Employee_437,HR,HR Manager,"Create_Vendor, Access_Payroll",28
+EMP438,Employee_438,HR,HR Specialist,"Approve_Invoice, Create_Vendor, Manage_Users",74
+EMP439,Employee_439,IT,Helpdesk Tech,Approve_Invoice,113
+EMP440,Employee_440,Finance,Accountant,"Approve_Invoice, Manage_Users",8
+EMP441,Employee_441,IT,SysAdmin,"Manage_Users, Delete_Database, Access_Payroll",7
+EMP442,Employee_442,Engineering,DevOps Engineer,"Approve_Invoice, Delete_Database, Access_Payroll",20
+EMP443,Employee_443,Engineering,DevOps Engineer,Access_Payroll,61
+EMP444,Employee_444,Finance,Accountant,"Manage_Users, Create_Vendor",104
+EMP445,Employee_445,Sales,Sales Rep,"Delete_Database, Manage_Users, Create_Vendor",50
+EMP446,Employee_446,Finance,Financial Analyst,Approve_Invoice,83
+EMP447,Employee_447,HR,HR Manager,"Read_Email, Access_Payroll",93
+EMP448,Employee_448,Finance,Accountant,"Delete_Database, Access_Payroll",78
+EMP449,Employee_449,HR,HR Specialist,Access_Payroll,93
+EMP450,Employee_450,IT,SysAdmin,"Create_Vendor, Approve_Invoice",39
+EMP451,Employee_451,HR,HR Specialist,Manage_Users,16
+EMP452,Employee_452,Sales,Sales Rep,"Access_Payroll, Create_Vendor, Delete_Database",118
+EMP453,Employee_453,Finance,Financial Analyst,"Delete_Database, Manage_Users",69
+EMP454,Employee_454,Engineering,DevOps Engineer,"Approve_Invoice, Access_Payroll",113
+EMP455,Employee_455,Sales,Account Executive,Manage_Users,61
+EMP456,Employee_456,Engineering,Software Engineer,"Approve_Invoice, Delete_Database",6
+EMP457,Employee_457,IT,SysAdmin,"Create_Vendor, Read_Email, Approve_Invoice",71
+EMP458,Employee_458,IT,Helpdesk Tech,"Create_Vendor, Manage_Users",43
+EMP459,Employee_459,Finance,Financial Analyst,"Create_Vendor, Delete_Database, Approve_Invoice",33
+EMP460,Employee_460,Sales,Account Executive,"Create_Vendor, Approve_Invoice",22
+EMP461,Employee_461,Finance,Financial Analyst,Access_Payroll,83
+EMP462,Employee_462,HR,HR Specialist,Manage_Users,7
+EMP463,Employee_463,HR,HR Manager,Manage_Users,30
+EMP464,Employee_464,HR,HR Specialist,Create_Vendor,65
+EMP465,Employee_465,Sales,Account Executive,Access_Payroll,82
+EMP466,Employee_466,IT,Helpdesk Tech,"Delete_Database, Read_Email, Access_Payroll",69
+EMP467,Employee_467,IT,Helpdesk Tech,Read_Email,68
+EMP468,Employee_468,Engineering,DevOps Engineer,Access_Payroll,105
+EMP469,Employee_469,Sales,Sales Rep,Read_Email,68
+EMP470,Employee_470,Finance,Accountant,Access_Payroll,68
+EMP471,Employee_471,Engineering,DevOps Engineer,"Delete_Database, Read_Email",48
+EMP472,Employee_472,Sales,Account Executive,"Create_Vendor, Manage_Users, Approve_Invoice",88
+EMP473,Employee_473,HR,HR Specialist,Delete_Database,49
+EMP474,Employee_474,Sales,Account Executive,Manage_Users,2
+EMP475,Employee_475,Finance,Accountant,"Delete_Database, Approve_Invoice",73
+EMP476,Employee_476,HR,HR Specialist,Create_Vendor,116
+EMP477,Employee_477,IT,Helpdesk Tech,"Read_Email, Manage_Users",88
+EMP478,Employee_478,Engineering,Software Engineer,Approve_Invoice,3
+EMP479,Employee_479,Finance,Accountant,"Delete_Database, Read_Email, Approve_Invoice",21
+EMP480,Employee_480,IT,SysAdmin,"Delete_Database, Access_Payroll, Approve_Invoice",50
+EMP481,Employee_481,Finance,Accountant,"Manage_Users, Approve_Invoice, Read_Email",13
+EMP482,Employee_482,Sales,Sales Rep,Approve_Invoice,78
+EMP483,Employee_483,IT,Helpdesk Tech,"Read_Email, Approve_Invoice",101
+EMP484,Employee_484,Sales,Account Executive,Approve_Invoice,71
+EMP485,Employee_485,Sales,Account Executive,Manage_Users,75
+EMP486,Employee_486,Sales,Sales Rep,"Approve_Invoice, Create_Vendor, Read_Email",11
+EMP487,Employee_487,Engineering,Software Engineer,"Manage_Users, Create_Vendor",95
+EMP488,Employee_488,Sales,Account Executive,"Read_Email, Manage_Users",1
+EMP489,Employee_489,Engineering,DevOps Engineer,"Approve_Invoice, Read_Email",17
+EMP490,Employee_490,HR,HR Specialist,"Delete_Database, Access_Payroll",72
+EMP491,Employee_491,IT,Helpdesk Tech,Read_Email,12
+EMP492,Employee_492,Engineering,Software Engineer,"Access_Payroll, Approve_Invoice, Delete_Database",2
+EMP493,Employee_493,Engineering,DevOps Engineer,"Read_Email, Access_Payroll",116
+EMP494,Employee_494,Finance,Accountant,"Delete_Database, Create_Vendor, Access_Payroll",35
+EMP495,Employee_495,Engineering,DevOps Engineer,"Create_Vendor, Read_Email",22
+EMP496,Employee_496,Sales,Account Executive,"Approve_Invoice, Delete_Database",101
+EMP497,Employee_497,HR,HR Manager,"Create_Vendor, Delete_Database",77
+EMP498,Employee_498,IT,SysAdmin,"Read_Email, Create_Vendor",39
+EMP499,Employee_499,HR,HR Manager,"Access_Payroll, Delete_Database",103
+EMP500,Employee_500,Engineering,DevOps Engineer,"Delete_Database, Access_Payroll",18
