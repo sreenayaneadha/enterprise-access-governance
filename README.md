@@ -1,1 +1,1 @@
-# grc-automation
+# Enterprise Access Governance Audit Lab
