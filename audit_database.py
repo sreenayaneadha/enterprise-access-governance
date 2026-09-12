@@ -10,7 +10,7 @@ query_sod = "SELECT Employee_ID, Name, Title, Permissions FROM employees WHERE P
 df_hr = pd.read_sql(query_hr, conn)
 df_sod = pd.read_sql(query_sod, conn)
 
-# 2. Write the findings to an official text report
+# 2. Create text file
 with open("Security_Audit_Report.txt", "w") as file:
     file.write("ENTERPRISE SECURITY AUDIT REPORT\n")
     file.write("================================\n\n")
