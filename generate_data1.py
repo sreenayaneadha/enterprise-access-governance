@@ -12,7 +12,7 @@ for i in range(1, 501):
     perms = random.sample(permissions_pool, k=random.randint(1, 3))
 
     if i == 15: perms = ["Access_Payroll", "Delete_Database"] # Seeded HR Insider Threat
-    if i == 42: perms = ["Delete_Database", "Manage_Users", "Approve_Invoice"] # Over-privileged
+    if i == 42: perms = ["Delete_Database", "Manage_Users", "Approve_Invoice"] # Seeded Over-privileged SoD Threat 
 
     data.append({
         "Employee_ID": f"EMP{i:03d}", "Name": f"Employee_{i}", "Department": dept, 
