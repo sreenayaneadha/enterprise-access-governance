@@ -9,8 +9,9 @@ I created this to get hands-on experience with Identity and Access Management (I
 
 * **`generate_data.py`**: Builds a simulated company structure (users, departments, roles, and a history of access grants) and populates a local `governance.db` file.
 * **`audit_permissions.py`**: Scans the database to find security risks. It specifically looks for:
-  * **Privilege Creep:** Users who changed departments but never had their old access rights revoked. Intentionally made Employee 15 overprivileged and Employee 42 an SoD threat to ensure the commands worked.
+  * **Privilege Creep:** Users who changed departments but never had their old access rights revoked. 
   * **SoD Violations:** Users who hold "toxic combinations" of access (e.g., the ability to both submit and approve a financial request).
+  * **Note:** Intentionally made Employee 15 overprivileged and Employee 42 an SoD threat to ensure the commands worked.
 
 ## Tech Stack
 * **Python 3**: Core scripting and logic.
