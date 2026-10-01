@@ -35,7 +35,7 @@ I created this to get hands-on experience with Identity and Access Management (I
    python audit_permissions.py
    ```
 
-*The script will output a report directly to the terminal detailing which simulated accounts have excessive permissions.*
+*The script will output a report directly to the terminal detailing which simulated accounts have excessive permissions. (Now it can create a CSV and text file if desired)*
 
 ## Improvements
 * Export the terminal output to a structured CSV report.
