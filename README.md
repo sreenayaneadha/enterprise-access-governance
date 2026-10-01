@@ -1,9 +1,8 @@
-# Enterprise Access Governance Audit Lab
 # Enterprise Access Governance Lab
 
 This is a local auditing project I built to detect privilege creep and Segregation of Duties (SoD) violations. Because testing on a live active directory is difficult to set up, this tool generates synthetic enterprise access data, stores it in a local SQLite database, and runs Python scripts to flag security anomalies.
 
-I created this to get hands-on experience with Identity and Access Management (IAM) principles and database auditing.
+I created this to get hands-on experience with simplified Identity and Access Management (IAM) and Role-Based Access Control (RBAC) principles and database auditing.
 
 ## How It Works
 
